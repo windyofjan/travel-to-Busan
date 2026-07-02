@@ -1,0 +1,6 @@
+{
+  "name": "여행 정산 계산기",
+  "description": "야구장과 전광판 테마의 감각적인 디자인을 적용한, 친구들과의 여행 경비 정산 계산기입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
